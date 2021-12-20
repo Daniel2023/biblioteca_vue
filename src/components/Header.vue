@@ -6,21 +6,30 @@
       <router-link to="/" class="text-decoration-none text-white">
         <img src="/img/book.png" width="50" alt="Book" />
       </router-link>
-    </div>
-    <div class="d-flex align-self-center">
-      <h3 class="d-inline ml-5 text-white">Books Shop</h3>
+      <h3 class="d-inline ml-8 text-white mx-2">Books Shop</h3>
     </div>
     <div class="list mx-5 d-flex align-self-center">
       <Search />
+    </div>
+    <div>
       <ul class="list-inline nav navbar navbar-left d-flex d-inline-flex">
-        <router-link to="/" class="text-decoration-none text-white"
-          ><li class="mx-2">Home</li></router-link
+        <router-link to="/" class="text-decoration-none text-white">
+          <li class="mx-2"><i class="fas fa-home"></i> Home</li></router-link
         >
-        <router-link to="/" class="text-decoration-none text-white"
-          ><li class="mx-2">Buy</li></router-link
+        <router-link to="/cart" class="text-decoration-none text-white">
+          <li class="mx-2">
+            <i class="fas fa-shopping-cart"></i> Cart
+          </li></router-link
         >
-        <router-link to="/" class="text-decoration-none text-white"
-          ><li class="mx-2">Cart</li></router-link
+        <router-link to="/signin" class="text-decoration-none text-white"
+          ><li class="mx-2">
+            <i class="fas fa-sign-in-alt"></i> Sign In
+          </li></router-link
+        >
+        <router-link to="/signup" class="text-decoration-none text-white"
+          ><li class="mx-2">
+            <i class="fas fa-user-plus"></i> Sign Up
+          </li></router-link
         >
       </ul>
     </div>

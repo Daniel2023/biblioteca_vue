@@ -7,42 +7,42 @@
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Todos os livros</li></router-link
+          ><li class="h-100 mx-4 h5">All Books</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Livros Mais vendidos</li></router-link
+          ><li class="h-100 mx-4 h5">Best Sellers</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Promoções</li></router-link
+          ><li class="h-100 mx-4 h5">Offers</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Clássicos</li></router-link
+          ><li class="h-100 mx-4 h5">Classics</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Terror</li></router-link
+          ><li class="h-100 mx-4 h5">Horror</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Universitários</li></router-link
+          ><li class="h-100 mx-4 h5">Learning & Education</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">HQs</li></router-link
+          ><li class="h-100 mx-4 h5">Comics</li></router-link
         >
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Religiosos</li></router-link
+          ><li class="h-100 mx-4 h5">Religion & Spirituality</li></router-link
         >
         <router-link
           to="/"
@@ -52,12 +52,7 @@
         <router-link
           to="/"
           class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Línguagens</li></router-link
-        >
-        <router-link
-          to="/"
-          class="d-flex align-self-center text-decoration-none text-white"
-          ><li class="h-100 mx-4 h5">Ficção</li></router-link
+          ><li class="h-100 mx-4 h5">Fiction</li></router-link
         >
       </ul>
     </div>
